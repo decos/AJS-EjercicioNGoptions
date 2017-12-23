@@ -1,6 +1,6 @@
-#ng-options
+# ng-options
 
-##Preguntas
+## Preguntas
 
 1. Principal diferencia entre el ng-options y el ng-repeat
 
